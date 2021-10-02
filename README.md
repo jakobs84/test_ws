@@ -3,6 +3,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Code Example](#code-examples)
+* [Schemat](#schemat)
+
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
@@ -23,3 +25,6 @@ $ npm start
 ```
 ## Code Examples
 To generate lorem ipsum use special shortcode: `put-your-code-here`
+
+## Schemat
+![Algorithm schema](./images/schema.jpg)
