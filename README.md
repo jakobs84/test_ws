@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Code Example](#code-examples)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
@@ -20,3 +21,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+## Code Examples
+To generate lorem ipsum use special shortcode: `put-your-code-here`
